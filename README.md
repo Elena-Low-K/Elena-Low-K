@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Olena Kaniuka, a student at Kharkiv National University of Radioelectronics
-- 💓 I’m interested in 3D modeling, coding and making games
-- 🌱 I’m currently learning C++, C#, HTML, CSS, JavaScript
-- 📫 You can reach me at https://www.linkedin.com/in/olena-kaniuka-728512228/
